@@ -2,6 +2,7 @@ Git の練習をしていきます。
 基本的なワークフローを学びます。
 ・git add
 ・git commit
+・git status
 最初に add をしていないのでは
 VIM　の使い方？？
 早口
